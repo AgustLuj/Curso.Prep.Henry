@@ -71,6 +71,7 @@ function fizzBuzz(numero) {
     return numero;
   }
   
+  
 }
 
 function esPrimo(numero) {
